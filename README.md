@@ -18,3 +18,5 @@
 - **Content**: [Notion API](https://developers.notion.com)
 - **Newsletter**: [Convertkit](https://convertkit.com/)
 - **Deployment**: [Vercel](https://vercel.com)
+
+  seing block renderer
